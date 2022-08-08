@@ -25,3 +25,5 @@ In colaboration with:
 
 - [Louiscollard](https://github.com/louiscollard/hiking-project)
 - [Sebatien voos](https://github.com/VOOSsebastien)
+
+You can check the project on Louiscollard profile to have a look.
